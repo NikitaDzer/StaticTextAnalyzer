@@ -1,11 +1,11 @@
-#include <stdio.h>
+#include <cstdio>
 #include "include/analyzer.h"
 
-int main(void) {
+int main() {
     printf("Static text analyzer.\n");
     
-    int result = analyzer("../text.txt");
-    printf("%d", result);
+    char path[] = "../text.txt";
+    int result = analyze(path);
     
-    return 0;
+    return result;
 }
