@@ -1,8 +1,8 @@
-#ifndef STATICTEXTANALYZER_SORT_H
-#define STATICTEXTANALYZER_SORT_H
+#ifndef SORT_H
+#define SORT_H
 
-#include "analyzer.h"
+#include "line.h"
 
-int sort(Line* const line_ptrs, const size_t lines_number);
+int sort(Line* const lines, const size_t lines_number);
 
-#endif //STATICTEXTANALYZER_SORT_H
+#endif // SORT_H

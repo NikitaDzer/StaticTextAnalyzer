@@ -1,9 +1,6 @@
 #include <cstring>
-#include <cstdlib>
-#include <cstdio>
 #include "../include/sort.h"
 #include "../include/compare.h"
-#include "../include/analyzer.h"
 
 static void swap_vertices(Line* const tree, const size_t vertex1_index, const size_t vertex2_index) {
    Line temp = tree[vertex1_index];

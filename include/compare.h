@@ -1,6 +1,8 @@
-#ifndef STATICTEXTANALYZER_COMPARE_H
-#define STATICTEXTANALYZER_COMPARE_H
+#ifndef COMPARE_H
+#define COMPARE_H
 
-int compare_lines(const char* const string1, const char* const string2);
+#include "line.h"
 
-#endif //STATICTEXTANALYZER_COMPARE_H
+int compare_lines(const char* const line1, const char* const line2);
+
+#endif // COMPARE_H

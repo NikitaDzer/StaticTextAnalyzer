@@ -7,7 +7,7 @@ static int compare_chars(const char ch1, const char ch2) {
    if (ch1 == '\n')
       return 1;
    
-   if (ch1 == ch2 || (!isalpha(ch1) && !isalpha(ch2)))
+   if (ch1 == ch2)
       return -1;
    
    if (isalpha(ch1)) {
@@ -21,8 +21,10 @@ static int compare_chars(const char ch1, const char ch2) {
       
       return 0;
    }
+   else if (isalpha(ch2))
+      return 1;
    
-   return 1;
+   return ch2 > ch1;
 }
 
 int compare_lines(const char* const line1, const char* const line2) {
@@ -38,3 +40,4 @@ int compare_lines(const char* const line1, const char* const line2) {
       ++i;
    }
 }
+
