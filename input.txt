@@ -1,10 +1,10 @@
     Romeo and Juliet
 
- 
+
 
 DRAMATIS PERSONAE
 
- 
+
 
 ESCALUS, Prince of Verona.
 
@@ -31,7 +31,7 @@ FRIAR JOHN, of the same order.
 BALTHASAR, servant to Romeo.
 
 ABRAM, servant to Montague.
-	
+
 
 SAMSON, servant to Capulet.
 
@@ -63,7 +63,7 @@ SCENE - Verona; once in the fifth act, at Mantua.
 
 ACT I  -  ACT II  -  ACT III  -  ACT IV  -  ACT V
 
- 
+
 
 THE PROLOGUE
 
@@ -101,7 +101,7 @@ What here shall miss, our toil shall strive to mend.
 
 [Exit.]
 
- 
+
 
 ACT I.
 
@@ -109,11 +109,11 @@ SCENE I.
 
 Verona. A public place.
 
- 
+
 
 Enter SAMSON and GREGORY, of the house of Capulet, with swords and bucklers.
 
- 
+
 
 Samp. Gregory, on my word, we'll not carry coals.
 
@@ -173,11 +173,11 @@ Poor John. Draw thy tool - Here comes two of the house of
 
 Montagues.
 
- 
+
 
 Enter ABRAM and BALTHASAR, two SERVINGMEN of the MONTAGUES.
 
- 
+
 
 Samp. My naked weapon is out. Quarrel! I will back thee.
 
@@ -231,21 +231,21 @@ Samp. Draw, if you be men. Gregory, remember thy swashing blow.
 
 [They fight.]
 
- 
+
 
 Enter BENVOLIO.
 
- 
+
 
 Ben. Part, fools! [Beats down their swords.]
 
 Put up your swords. You know not what you do.
 
- 
+
 
 Enter TYBALT.
 
- 
+
 
 Tyb. What, art thou drawn among these heartless hinds?
 
@@ -263,23 +263,23 @@ Have at thee, coward!
 
 [They fight.]
 
- 
+
 
 Enter several of both houses, who join yhe fray;
 
 then enter three or four CITIZENS with clubs.
 
- 
+
 
  Citizens. Clubs, bills, and partisans! Strike! beat them down!
 
  Down with the Capulets! Down with the Montagues!
 
- 
+
 
 Enter old CAPULET in his gown, and LADY CAPULET.
 
- 
+
 
 Cap. What noise is this? Give me my long sword, ho!
 
@@ -289,21 +289,21 @@ Cap. My sword, I say! Old Montague is come
 
 And flourishes his blade in spite of me.
 
- 
+
 
 Enter old MONTAGUE and LADY MONTAGUE.
 
- 
+
 
 Mont. Thou villain Capulet!- Hold me not, let me go.
 
 Lady Mont. Thou shalt not stir one foot to seek a foe.
 
- 
+
 
 Enter Prince ESCALUS with his TRAIN.
 
- 
+
 
 Prince. Rebellious subjects, enemies to peace,
 
@@ -351,11 +351,11 @@ To old Freetown, our common judgment place.
 
 Once more, on pain of death, all men depart.
 
- 
+
 
 [Exeunt all but MONTAGUE, LADY MONTAGUE and BENVOLIO].
 
- 
+
 
 Mont. Who set this ancient quarrel new abroach?
 
@@ -461,11 +461,11 @@ Could we but learn from whence his sorrows grow,
 
 We would as willingly give cure as know.
 
- 
+
 
 Enter ROMEO.
 
- 
+
 
 Ben. See, where he comes. So please you step aside,
 
@@ -475,11 +475,11 @@ Mont. I would thou wert so happy by thy stay
 
 To hear true shrift. Come, madam, let's away.
 
- 
+
 
 [Exeunt MONTAGUE and LADY MONTAGUE].
 
- 
+
 
 Ben. Good morrow, cousin.
 
@@ -651,21 +651,21 @@ Where I may read who pass'd that passing fair?
 
 Farewell. Thou canst not teach me to forget.
 
-Ben. I'll pay that doctrine, or else die in debt. 
+Ben. I'll pay that doctrine, or else die in debt.
 
 [Exeunt.]
 
- 
+
 
 SCENE II.
 
  A Street.
 
- 
+
 
 Enter CAPULET, COUNTY PARIS, and SERVANT - the ClOWN.
 
- 
+
 
 Cap. But Montague is bound as well as I,
 
@@ -743,11 +743,11 @@ Whose names are written there, and to them say,
 
 My house and welcome on their pleasure stay.
 
- 
+
 
 [Exeunt CAPULET and PARIS].
 
- 
+
 
 Ser. Find them out whose names are written here? It is written
 
@@ -761,11 +761,11 @@ here writ, and can never find what names the writing person hath
 
 here writ. I must to the learned. In good time!
 
- 
+
 
 Enter BENVOLIO and ROMEO.
 
- 
+
 
 Ben. Tut, man, one fire burns out another's burning;
 
@@ -889,17 +889,17 @@ But to rejoice in splendour of my own.
 
 [Exeunt.]
 
- 
+
 
 SCENE III.
 
  A room in CAPULET'S house.
 
- 
+
 
 Enter LADY CAPULET and NURSE.
 
- 
+
 
 Lady Cap. Nurse, where's my daughter? Call her forth to me.
 
@@ -909,11 +909,11 @@ I bade her come. What, lamb! what ladybird!
 
 God forbid! Where's this girl? What, Juliet!
 
- 
+
 
 Enter JULIET.
 
- 
+
 
 Juliet. How now? Who calls?
 
@@ -1111,11 +1111,11 @@ But no more deep will I endart mine eye
 
 Than your consent gives strength to make it fly.
 
- 
+
 
 Enter a SERVINGMAN.
 
- 
+
 
 Sev. Madam, the guests are come, supper serv'd up, you call'd, my
 
@@ -1133,19 +1133,19 @@ Nurse. Go, girl, seek happy nights to happy days.
 
 [Exeunt.]
 
- 
+
 
 SCENE IV.
 
  A street.
 
- 
+
 
 Enter ROMEO, MERCUTIO, BENVOLIO,
 
  with five or six other MASQUERS and TORCHBEARES.
 
- 
+
 
 Romeo. What, shall this speech be spoke for our excuse?
 
@@ -1389,17 +1389,17 @@ Ben. Strike, drum.
 
 [They march about the stage and exeunt.]
 
- 
+
 
 SCENE V.
 
  A hall in CAPULET'S house
 
- 
+
 
 MUSICIANS waiting. SERVINGMEN come forth with napkins.
 
- 
+
 
 First Ser. Where's Potpan, that he helps not to take away?
 
@@ -1429,13 +1429,13 @@ Be brisk awhile, and the longer liver take all.
 
 [They retire behind].
 
- 
+
 
 Enter CAPULET, LADY CAPULET, JULIET, TYBALT, NURSE
 
  and all the GUESTS and GENTLEWOMEN to the Masquers.
 
- 
+
 
 Cap. Welcome, gentlemen! Ladies that have their toes
 
@@ -1493,7 +1493,7 @@ Cap. Will you tell me that?
 
 His son was but a ward two years ago.
 
-Romeo. [to a SERVINGMAN] 
+Romeo. [to a SERVINGMAN]
 
 What lady's that, which doth enrich the hand
 
@@ -1607,7 +1607,7 @@ Now seeming sweet, convert to bitt'rest gall.
 
 [Exit.]
 
- 
+
 
 Romeo. [to JULIET].
 
@@ -1649,7 +1649,7 @@ Give me my sin again. [He Kisses her.]
 
 Juliet. You kiss by th' book.
 
- 
+
 
 Nurse. Madam, your mother craves a word with you.
 
@@ -1693,11 +1693,11 @@ Ah, sirrah, by my fay, it waxes late;
 
 I'll to my rest.
 
- 
+
 
 [Exeunt all but JULIET and NURSE].
 
- 
+
 
 Juliet. Come hither, nurse. What is yond gentleman?
 
@@ -1741,19 +1741,19 @@ Come, let's away; the strangers all are gone.
 
 [Exeunt.]
 
- 
+
 
 ACT II.
 
- 
+
 
 PROLOGUE
 
- 
+
 
 Enter CHORUS.
 
- 
+
 
 Chorus. Now old desire doth in his deathbed lie,
 
@@ -1785,17 +1785,17 @@ Temp'ring extremities with extreme sweet.
 
 [Exit.]
 
- 
+
 
  SCENE I.
 
 Verona. CAPULET'S orchard.
 
- 
+
 
 Enter ROMEO alone.
 
- 
+
 
 Romeo. Can I go forward when my heart is here?
 
@@ -1803,11 +1803,11 @@ Turn back, dull earth, and find thy centre out.
 
 [He leaps the orchad-wall.]
 
- 
+
 
 Enter BENVOLIO with MERCUTIO.
 
- 
+
 
 Ben. Romeo! my cousin Romeo! Romeo!
 
@@ -1895,15 +1895,15 @@ Ben. Go then, for 'tis in vain
 
 'To seek him here that means not to be found.
 
- 
+
 
 [Exeunt BENVOLIO and MERCUTIO.]
 
- 
+
 
 SCENE II.
 
- 
+
 
 Romeo. [ coming forward.]
 
@@ -2313,11 +2313,11 @@ Good night, good night! Parting is such sweet sorrow,
 
 That I shall say good night till it be morrow.
 
- 
+
 
 [Exit JULIET.]
 
- 
+
 
 Romeo. Sleep dwell upon thine eyes, peace in thy breast!
 
@@ -2329,17 +2329,17 @@ His help to crave and my dear hap to tell.
 
 [Exit.]
 
- 
+
 
 SCENE III.
 
 FRIAR LAURENCE'S  cell.
 
- 
+
 
 Enter FRIAR LAURENCE alone, with a basket.
 
- 
+
 
 Friar L. The grey-ey'd morn smiles on the frowning night,
 
@@ -2401,11 +2401,11 @@ And where the worser is predominant,
 
 Full soon the canker death eats up that plant.
 
- 
+
 
 Enter ROMEO.
 
- 
+
 
 Romeo. Good morrow, father.
 
@@ -2543,17 +2543,17 @@ Friar L. Wisely, and slow. They stumble that run fast.
 
 [Exeunt.]
 
- 
+
 
 SCENE IV.
 
 A street.
 
- 
+
 
 Enter BENVOLIO and MERCUTIO.
 
- 
+
 
 Mer. Where the devil should this Romeo be?
 
@@ -2619,11 +2619,11 @@ much on the new form that they cannot sit at ease on the old
 
 bench? O, their bones, their bones!
 
- 
+
 
 Enter ROMEO.
 
- 
+
 
 Ben. Here comes Romeo! here comes Romeo!
 
@@ -2731,11 +2731,11 @@ the argument no longer.
 
 Romeo. Here's goodly gear!
 
- 
+
 
 Enter NURSE and her Man [PETER].
 
- 
+
 
 Mer. A sail, a sail!
 
@@ -2817,11 +2817,11 @@ Mer. Farewell, ancient lady. Farewell,
 
 [singing] lady, lady, lady.
 
- 
+
 
 [Exeunt MERCUTIO and BENVOLIO.]
 
- 
+
 
 Nurse. Marry, farewell! I Pray you, Sir, what saucy merchant was
 
@@ -2951,17 +2951,17 @@ Nurse. Peter, take my fan, and go before, and apace.
 
 [Exeunt.]
 
- 
+
 
 SCENE V.
 
  CAPULET'S orchard.
 
- 
+
 
 Enter JULIET.
 
- 
+
 
 Juliet. The clock struck nine when I did send the nurse;
 
@@ -2997,11 +2997,11 @@ But old folks, many feign as they were dead-
 
 Unwieldy, slow, heavy and pale as lead.
 
- 
+
 
 Enter NURSE [and PETER].
 
- 
+
 
 O God, she comes! O honey nurse, what news?
 
@@ -3127,17 +3127,17 @@ Juiet. Hie to high fortune! Honest nurse, farewell.
 
 [Exeunt.]
 
- 
+
 
 SCENE VI.
 
 FRIAR LAURENCE'S cell.
 
- 
+
 
 Enter FRIAR [LAURENCE] and ROMEO.
 
- 
+
 
 Friar L. So smile the heavens upon this holy act
 
@@ -3169,11 +3169,11 @@ Therefore love moderately: long love doth so;
 
 Too swift arrives as tardy as too slow.
 
- 
+
 
 Enter JULIET somewhat fast and embraces Romeo.
 
- 
+
 
 Here comes the lady. O, so light a foot
 
@@ -3221,7 +3221,7 @@ Till Holy Church incorporate two in one.
 
 [Exeunt.]
 
- 
+
 
 ACT III.
 
@@ -3229,11 +3229,11 @@ SCENE I.
 
 A public place.
 
- 
+
 
 Enter MERCUTIO, BENVOLIO and Men.
 
- 
+
 
 Ben. I pray thee, good Mercutio, let's retire.
 
@@ -3293,11 +3293,11 @@ the fee simple of my life for an hour and a quarter.
 
 Mer. The fee simple? O simple!
 
- 
+
 
 Enter TYBALT and others.
 
- 
+
 
 Ben. By my head, here come the Capulets.
 
@@ -3337,11 +3337,11 @@ Mer. Men's eyes were made to look, and let them gaze.
 
 I will not budge for no man's pleasure, I.
 
- 
+
 
 Enter ROMEO.
 
- 
+
 
 Tyb. Well, peace be with you, sir. Here comes my man.
 
@@ -3413,19 +3413,19 @@ Forbid this bandying in Verona streets.
 
 Hold, Tybalt! Good Mercutio!
 
- 
+
 
 Tybalt under Romeo's arm thrusts Mercutio in.
 
- 
+
 
 A Follower. Away Tybalt.
 
- 
+
 
 Exit TYBALT [with his followers].
 
- 
+
 
 Mer. I am hurt.
 
@@ -3467,11 +3467,11 @@ They have made worms' meat of me. I have it,
 
 And soundly too. Your houses!
 
- 
+
 
 [Exit. MERCUTIO with BENVOLIO].
 
- 
+
 
 Romeo. This gentleman, the Prince's near ally,
 
@@ -3487,11 +3487,11 @@ Thy beauty hath made me effeminate
 
 And in my temper soft'ned valour's steel
 
- 
+
 
 Enter BENVOLIO.
 
- 
+
 
 Ben. O Romeo, Romeo, brave Mercutio's dead!
 
@@ -3503,11 +3503,11 @@ Rom. This day's black fate on moe days doth depend;
 
 This but begins the woe others must end.
 
- 
+
 
 Enter TYBALT.
 
- 
+
 
 Ben. Here comes the furious Tybalt back again.
 
@@ -3547,15 +3547,15 @@ Romeo. O, I am fortune's fool!
 
 Ben. Why dost thou stay?
 
- 
+
 
 [Exit ROMEO.]
 
- 
+
 
 Enter CITIZENS.
 
- 
+
 
 Citizen. Which way ran he that kill'd Mercutio?
 
@@ -3567,11 +3567,11 @@ Citizen. Up, sir, go with me.
 
 I charge thee in the Prince's name obey.
 
- 
+
 
 Enter PRINCE, MONTAGUE, CAPULET,  their WIVES and ALL.
 
- 
+
 
 Prince. Where are the vile beginners of this fray?
 
@@ -3691,17 +3691,17 @@ Mercy but murders, pardoning those that kill.
 
 [Exeunt.]
 
- 
+
 
 SCENE II.
 
 CAPULET'S orchard.
 
- 
+
 
 Enter JULIET alone.
 
- 
+
 
 Juliet. Gallop apace, you fiery-footed steeds,
 
@@ -4001,17 +4001,17 @@ And bid him come to take his last farewell.
 
 [Exeunt.]
 
- 
+
 
 SCENE III.
 
 Friar LAURENCE'S cell.
 
- 
+
 
 Enter FRIAR [LAURENCE].
 
- 
+
 
 Friar L. Romeo, come forth; come forth, thou fearful man.
 
@@ -4019,11 +4019,11 @@ Affliction is enanmour'd of thy parts,
 
 And thou art wedded to calamity.
 
- 
+
 
 Enter ROMEO.
 
- 
+
 
 Romeo. Father, what news? What is the Prince's doom
 
@@ -4187,11 +4187,11 @@ I come from Lady Juliet.
 
 Friar L. Welcome then.
 
- 
+
 
 Enter NURSE.
 
- 
+
 
 Nurse. O holy friar, O, tell me, holy friar
 
@@ -4393,17 +4393,17 @@ Farewell.
 
 [Exeunt.]
 
- 
+
 
 SCENE IV.
 
 CAPULET'S house.
 
- 
+
 
 Enter CAPULET, LADY CAPULET and PARIS.
 
- 
+
 
 Cap. Things have fall'n out, sir, so unluckily
 
@@ -4481,17 +4481,17 @@ Good night.
 
 [Exeunt.]
 
- 
+
 
 SCENE V.
 
 CAPULET'S orchard.
 
- 
+
 
 Enter ROMEO and JULIET aloft at the window.
 
- 
+
 
 Juliet. Wilt thou be gone? It is not yet near day.
 
@@ -4565,11 +4565,11 @@ O, now be gone! More light and light it grows.
 
 Romeo. More light and light- more dark and dark our woes!
 
- 
+
 
 Enter NURSE hastily
 
- 
+
 
 Nurse. Madam!
 
@@ -4631,11 +4631,11 @@ For then I hope thou wilt not keep him long
 
 But send him back.
 
- 
+
 
 Enter LADY CAPULET.
 
- 
+
 
 Lady Cap. Ho, daughter! are you up?
 
@@ -4771,11 +4771,11 @@ Lady Cap. Here comes your father. Tell him so yourself,
 
 And see how be will take it at your hands.
 
- 
+
 
 Enter CAPULET and NURSE.
 
- 
+
 
 Cap. When the sun sets the air doth drizzle dew,
 
@@ -5031,7 +5031,7 @@ If all else fail, myself have power to die.
 
 [Exit.]
 
- 
+
 
 ACT IV.
 
@@ -5039,11 +5039,11 @@ SCENE I.
 
 FRIAR LAURENCE'S cell.
 
- 
+
 
 Enter FRIAR [LAURENCE] and PARIS.
 
- 
+
 
 Friar L. On Thursday, sir? The time is very short.
 
@@ -5079,11 +5079,11 @@ Friar L. [aside] I would I knew not why it should be slow'd.-
 
 Look, sir, here comes the lady toward my cell.
 
- 
+
 
 Enter JULIET.
 
- 
+
 
 Paris. Happily met, my lady and my wife!
 
@@ -5139,7 +5139,7 @@ Juliet, on Thursday early will I rouse ye.
 
 Till then, adieu, and keep this holy kiss. [Exit.]
 
- 
+
 
 Juliet. O, shut the door! and when thou hast done so,
 
@@ -5309,17 +5309,17 @@ Farewell, dear father.
 
 [Exeunt.]
 
- 
+
 
 SCENE II.
 
 CAPULET'S house.
 
- 
+
 
 Enter CAPULET, LADY CAPULET, NURSE, and two or three Servingmen.
 
- 
+
 
 Cap. So many guests invite as here are writ.
 
@@ -5351,11 +5351,11 @@ Cap. Well, be may chance to do some good on her.
 
 A peevish self-will'd harlotry it is.
 
- 
+
 
 Enter JULIET.
 
- 
+
 
 Nurse. See where she comes from shrift with merry look.
 
@@ -5407,7 +5407,7 @@ Cap. Go, nurse, go with her. We'll to church tomorrow.
 
 [Exeunt JULIET and NURSE.]
 
- 
+
 
 Lady Cap. We shall be short in our provision.
 
@@ -5433,17 +5433,17 @@ Since this same wayward girl is so reclaim'd.
 
 [Exeunt.]
 
- 
+
 
 SCENE III.
 
 JULIET'S chamber.
 
- 
+
 
 Enter JULIET and NURSE.
 
- 
+
 
 Juliet. Ay, those attires are best; but, gentle nurse,
 
@@ -5455,11 +5455,11 @@ To move the heavens to smile upon my state,
 
 Which, well thou knowest, is cross and full of sin.
 
- 
+
 
 Enter LADY CAPULET.
 
- 
+
 
 Lady Cap. What, are you busy, ho? Need you my help?
 
@@ -5479,11 +5479,11 @@ Lady Cap. Good night.
 
 Get thee to bed, and rest; for thou hast need.
 
- 
+
 
 Exeunt [LADY CAPULETMother and NURSE.]
 
- 
+
 
 Juliet. Farewell! God knows when we shall meet again.
 
@@ -5581,27 +5581,27 @@ Romeo, I come! this do I drink to thee.
 
 [She falls upon her bed within the curtains.]
 
- 
+
 
 SCENE IV.
 
 CAPULET'S house.
 
- 
+
 
 Enter LADY CAPULET and NURSE.
 
- 
+
 
 Lady Cap. Hold, take these keys and fetch more spices, nurse.
 
 Nurse. They call for dates and quinces in the pastry.
 
- 
+
 
 Enter CAPULET.
 
- 
+
 
 Cap. Come, stir, stir, stir! The second cock hath crow'd,
 
@@ -5625,11 +5625,11 @@ Lady Cap. Ay, you have been a mouse-hunt in your time;
 
 But I will watch you from such watching now.
 
- 
+
 
 [Exeunt LADY CAPULET and NURSE.]
 
- 
+
 
 Cap. A jealous-hood, a jealous-hood!
 
@@ -5661,11 +5661,11 @@ For so he said he would. I hear him near.
 
 Nurse! Wife! What, ho! What, Nurse, I say!
 
- 
+
 
 Enter NURSE.
 
- 
+
 
 Go waken Juliet; go and trim her up.
 
@@ -5677,7 +5677,7 @@ Make haste, I say.
 
 [Exeunt CAPULET and SERVINGMEN.]
 
- 
+
 
 SCENE V.
 
@@ -5685,7 +5685,7 @@ JULIET'S chamber.
 
 [NURSE goes to the curtains.]
 
- 
+
 
 Nurse. Mistress! what, mistress! Juliet! Fast, I warrant her, she.
 
@@ -5719,11 +5719,11 @@ O weraday that ever I was born!
 
 Some aqua-vitae, ho! My lord! my lady!
 
- 
+
 
 Enter LADY CAPULET.
 
- 
+
 
 Lady Cap. What noise is here?
 
@@ -5739,11 +5739,11 @@ Revive, look up, or I will die with thee!
 
 Help, help! Call help.
 
- 
+
 
 Enter CAPULET.
 
- 
+
 
 Cap. For shame, bring Juliet forth; her lord is come.
 
@@ -5769,11 +5769,11 @@ Cap. Death, that hath ta'en her hence to make me wail,
 
 Ties up my tongue and will not let me speak.
 
- 
+
 
 Enter FRIAR [LAURENCE] and PARIS, with Musicians.
 
- 
+
 
 Friar L. Come, is the bride ready to go to church?
 
@@ -5901,13 +5901,13 @@ The heavens do low'r upon you for some ill;
 
 Move them no more by crossing their high will.
 
- 
+
 
 [Exeunt all but the NURSE and Musicians, casting rosemary
 
  on Juliet and shutting the curtains.]
 
- 
+
 
 1. Mus. Faith, we may put up our pipes and be gone.
 
@@ -5919,11 +5919,11 @@ For well you know this is a pitiful case. [Exit.]
 
 [Exit NURSE.]
 
- 
+
 
 Enter PETER.
 
- 
+
 
 Peter. Musicians, O, musicians, 'Heart's ease,' 'Heart's ease'!
 
@@ -6003,7 +6003,7 @@ mourners, and stay dinner.
 
 [Exeunt.]
 
- 
+
 
 ACT V.
 
@@ -6011,11 +6011,11 @@ SCENE I.
 
 Mantua. A street.
 
- 
+
 
 Enter ROMEO.
 
- 
+
 
 Romeo. If I may trust the flattering truth of sleep
 
@@ -6039,11 +6039,11 @@ Ah me! how sweet is love itself possess'd,
 
 When but love's shadows are so rich in joy.
 
- 
+
 
 Enter BALTHASAR, Romeo's man, booted.
 
- 
+
 
 News from Verona! How now, Balthasar?
 
@@ -6055,7 +6055,7 @@ How fares my Juliet? That I ask again,
 
 For nothing can be ill if she be well.
 
- 
+
 
 Bal. Then she is well, and nothing can be ill.
 
@@ -6143,11 +6143,11 @@ As I remember, this should be the house.
 
 Being holiday, the beggar's shop is shut. What, ho! apothecary!
 
- 
+
 
 Enter APOTHECARY.
 
- 
+
 
 Apoth. Who calls so loud?
 
@@ -6211,25 +6211,25 @@ To Juliet's grave; for there must I use thee.
 
 [Exeunt.]
 
- 
+
 
 SCENE II.
 
 Verona. FRIAR LAURENCE'S cell.
 
- 
+
 
 Enter FRIAR JOHN.
 
- 
+
 
 Friar J. Holy Franciscan Friar, Brother, ho!
 
- 
+
 
 Enter FRIAR LAURENCE.
 
- 
+
 
 Friar L. This same should be the voice of Friar John.
 
@@ -6291,17 +6291,17 @@ Poor living corse, clos'd in a dead man's tomb!
 
 [Exit.]
 
- 
+
 
 SCENE III.
 
 Verona. A churchyard; in it the monument of the CAPULETS.
 
- 
+
 
 Enter PARIS and his PAGE, with flowers and sweet water.
 
- 
+
 
 Paris. Give me thy torch, boy. Hence, and stand aloof.
 
@@ -6351,13 +6351,13 @@ What, with a torch? Muffle me, night, awhile.
 
 [PARIS retires.]
 
- 
+
 
 Enter ROMEO, and BALTHASAR with a torch, a mattock
 
 and a crow of iron.
 
- 
+
 
 Romeo. Give me that mattock and the wrenching iron.
 
@@ -6433,6 +6433,83 @@ Condemned villain, I do apprehend thee.
 
 Obey, and go with me; for thou must die.
 
+Romeo. I must indeed; and therefore came I hither.
+
+Good gentle youth, tempt not a desp'rate man.
+
+Fly hence and leave me. Think upon these gone;
+
+Let them affright thee. I beseech thee, youth,
+
+But not another sin upon my head
+
+By urging me to fury. O, be gone!
+
+By heaven, I love thee better than myself,
+
+For I come hither arm'd against myself.
+
+Stay not, be gone. Live, and hereafter say
+
+A madman's mercy bid thee run away.
+
+Paris. I do defy thy, conjuration
+
+And apprehend thee for a felon here.
+
+Romeo. Wilt thou provoke me? Then have at thee, boy!
+
+[They fight.]
+
+Page. O Lord, they fight! I will go call the Watch.
+
+[Exit PAGE]
+
+Paris. O, I am slain! If thou be merciful,
+
+Open the tomb, lay me with Juliet. [PARIS dies.]
+
+Romeo. In faith, I will. Let me peruse this face.
+
+Mercutio's kinsman, noble County Paris!
+
+What said my man when my betossed soul
+
+Did not attend him as we rode? I think
+
+He told me Paris should have married Juliet.
+
+Said he not so? or did I dream it so?
+
+Or am I mad, hearing him talk of Juliet
+
+To think it was so? O, give me thy hand,
+
+One writ with me in sour misfortune's book!
+
+I'll bury thee in a triumphant grave.
+
+A grave? O, no, a lanthorn, slaught'red youth,
+
+For here lies Juliet, and her beauty makes
+
+This vault a feasting presence full of light.
+
+Death, lie thou there, by a dead man interr'd.
+
+[Lays him in the tomb.]
+
+How oft when men are at the point of death
+
+Have they been merry! which their keepers call
+
+A lightning before death. O, how may I
+
+Call this a lightning? O my love! my wife!
+
+Death, that hath suck'd the honey of thy breath,
+
+Hath had no power yet upon thy beauty.
 
 Thou art not conquer'd. Beauty's ensign yet
 
@@ -6488,11 +6565,11 @@ Here's to my love! [He drinks.] O true apothecary!
 
 Thy drugs are quick. Thus with a kiss I die. [He falls.]
 
- 
+
 
 Enter FRIAR [LAURENCE], with lantern, crow and spade.
 
- 
+
 
 Friar L. Saint Francis be my speed! how oft to-night
 
@@ -6558,11 +6635,11 @@ And steep'd in blood? Ah, what an unkind hour
 
 Is guilty of this lamentable chance? The lady stirs.
 
- 
+
 
 JULIET rises.
 
- 
+
 
 Juliet. O comfortable Friar! where is my lord?
 
@@ -6616,11 +6693,11 @@ This is thy sheath; there rust, and let me die.
 
 [She stabs herself and falls].
 
- 
+
 
 Enter [PARIS'S] PAGE and Watchmen.
 
- 
+
 
 Page. This is the place. There, where the torch doth burn.
 
@@ -6648,21 +6725,21 @@ But the true ground of all these piteous woes
 
 We cannot without circumstance descry.
 
- 
+
 
 Enter [several Watchmen with] BALTHASAR.
 
- 
+
 
 2. Watchman. Here's Romeo's man. We found him in the churchyard.
 
 1. Watchman. Hold him in safety till the Prince come hither.
 
- 
+
 
 Enter another Whatchman with FRIAR LAURENCE.
 
- 
+
 
 3. Watchman. Here is a friar that trembles, sighs, and weeps.
 
@@ -6672,21 +6749,21 @@ As he was coming from this churchyard side.
 
 1. Watchman. A great suspicion! Stay the friar too.
 
- 
+
 
 Enter the PRINCE [and ATTENDANTS].
 
- 
+
 
 Prince. What misadventure is so early up,
 
 That calls our person from our morning rest?
 
- 
+
 
 Enter CAPULET and LADY CAPULET [and SERVANT].
 
- 
+
 
 Cap. What should it be, that they so shriek abroad?
 
@@ -6724,11 +6801,11 @@ Lady Cap. O me! this sight of death is as a bell
 
 That warns my old age to a sepulchre.
 
- 
+
 
 Enter MONTAGUE [and SERVANTS].
 
- 
+
 
 Prince. Come, Montague; for thou art early up
 
@@ -6940,6 +7017,6 @@ Than this of Juliet and her Romeo.
 
 [Exeunt.]
 
- 
+
 
 THE END

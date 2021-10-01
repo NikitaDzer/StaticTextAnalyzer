@@ -34,13 +34,14 @@ int analyze(const char* const inputFile_path, const char* const outputFile_path 
    }
 
    inputFile_size = get_file_size(inputFile);
-   text           = (char*)calloc(inputFile_size + 2, sizeof(char));
+   text           = (char*)calloc(inputFile_size + 3, sizeof(char)); // "\n" + inputFile + "\n\0"
    if (!text) {
       printf("There is not enough memory for text.\n");
       return 2;
    }
    
-   text_size = fread(text, sizeof(char), inputFile_size, inputFile) + 1;
+   text[0] = '\n';
+   text_size = fread(text + 1, sizeof(char), inputFile_size, inputFile) + 2;
    
    if (fclose(inputFile) == EOF) {
       printf("Cannot close input file with path %s.", inputFile_path);
@@ -63,7 +64,7 @@ int analyze(const char* const inputFile_path, const char* const outputFile_path 
       return 2;
    }
    
-   sort(lines, lines_number);
+   sort(lines, lines_number, 1);
    
    outputFile = fopen(outputFile_path, "w");
    if (!outputFile) {
